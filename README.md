@@ -1,4 +1,4 @@
-# trillo
+# Trillo
 
 [Online Demo](https://martinbianchi.github.io/trillo/#)
 
